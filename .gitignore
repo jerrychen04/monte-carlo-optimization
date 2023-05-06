@@ -1,0 +1,5 @@
+.vscode/
+output/
+algorithm.exe
+monte_carlo_american.exe
+monte_carlo_european.exe
